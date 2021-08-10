@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width:auto;
+  }
+  
+  td, th {
+    min-width: 25%;
+  }
+
+  .mat-paginator {
+    width: auto;
+  }
